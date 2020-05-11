@@ -1,0 +1,2 @@
+rootProject.name='Telechat'
+include ':app'
